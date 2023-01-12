@@ -6,22 +6,22 @@
 div {
   padding: 10px;
   float: left;
-  background-color: yellow;
+  /* background-color: yellow; */
 }
 section {
   height: 125px;
   width: 100%;
-  background-color: aqua;
+  /* background-color: aqua; */
 }
 h2 {
   font-size: 110%;
-  background-color: brown;
+  /* background-color: brown; */
 }
 p {
   clear: both;
   border: none;
   padding: 10px;
-  background-color: chartreuse;
+  /* background-color: chartreuse; */
 }
 .entree {
   float: right;
@@ -29,7 +29,7 @@ p {
   padding: 4px;
   width: 50%;
   margin: 0px;
-  background-color: grey;
+  /* background-color: grey; */
 }
 /* Desktop View */
 @media (min-width: 992px) {
